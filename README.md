@@ -1,11 +1,9 @@
-# 🚀 Lung Cancer Detection using CNN
+# 🚀 PulmoTrainer: AI-Powered Lung Cancer Detection
 
 ## 🌟 Project Overview
 Lung cancer is one of the deadliest diseases, and early detection can significantly improve survival rates. This AI-driven Lung Cancer Detection system leverages Deep Learning to analyze CT scan images and predict cancer presence efficiently. The project integrates a **3D Convolutional Neural Network (CNN)** and a user-friendly **Graphical User Interface (GUI)** for seamless operation.
 
 Using a dataset of thousands of high-resolution lung scans, this model accurately determines when lesions in the lungs are cancerous. This helps in reducing false positives, providing early access to life-saving interventions, and giving radiologists more time to focus on their patients.
-
-![Lung-Cancer-Detection](https://user-images.githubusercontent.com/68781375/162584408-450580c0-3354-470b-a69c-180a19802fd4.jpg)
 
 ## 🏆 Key Features
 - 📂 **Easy Data Import:** Load and process DICOM CT scan images effortlessly.
